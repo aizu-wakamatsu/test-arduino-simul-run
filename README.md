@@ -1,4 +1,4 @@
-![image](https://github.com/aizu-wakamatsu/test-arduino-simul-run/assets/38212728/414ebd37-73c6-4349-9394-5b8f6d8787c0)# test-arduino-simul-run
+# test-arduino-simul-run
 外部クロックによる同時サンプリングのテスト
 
 大LT2024春のポスターセッションで発表した内容です。
